@@ -1,1 +1,1 @@
-# icp_8
+name:RAJYALAKSHMI GOTTIPATI student id: 700745186 video link:https://drive.google.com/file/d/10iPCWPHfiS8dJzQjwuJvVTgY5KqRK4QT/view?usp=share_link Document- Neural Network & Deep learning - ICP-8.docx Video File-NNDL-Assignment8.mp4 Code- NN-Assignment8.py
